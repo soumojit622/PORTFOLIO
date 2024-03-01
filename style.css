@@ -701,13 +701,13 @@ section {
 /* IF YOU WANT TO CHANGE THE LEARNING PERCENTAGE YOU CAN CHANGE IT FROM HERE */
 /* 1 */
 .skill-bar .bar .html {
-    width: 80%;
+    width: 85%;
     animation: html 2s;
 }
 
 /* 2 */
 .skill-bar .bar .css {
-    width: 70%;
+    width: 75%;
     animation: css 3s;
 }
 
