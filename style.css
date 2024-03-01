@@ -707,19 +707,19 @@ section {
 
 /* 2 */
 .skill-bar .bar .css {
-    width: 50%;
+    width: 70%;
     animation: css 3s;
 }
 
 /* 3 */
 .skill-bar .bar .java-script {
-    width: 50%;
+    width: 60%;
     animation: java-script 4s;
 }
 
 /* 4 */
 .skill-bar .bar .react {
-    width: 40%;
+    width: 50%;
     animation: react 5s;
 }
 
