@@ -1,33 +1,35 @@
-# Portfolio Website
+[![Portfolio](https://github.com/soumojit622/PORTFOLIO/blob/master/images/banner.png)](https://soumojit622.github.io/PORTFOLIO/)
 
-This repository contains the code for my portfolio website, showcasing my projects, skills, and experience.
+# Portfolio Website 🌟
 
-## Features
+This repository contains the code for my portfolio website, showcasing my projects, skills, and experience. 💼
 
-- Responsive design
-- Interactive elements
-- Project showcase
-- Skills & experience display
+## Features ✨
 
-## Technologies Used
+- Responsive design 📱
+- Interactive elements 🖱️
+- Project showcase 🛠️
+- Skills & experience display 🧑‍💻
 
-- HTML5
-- CSS3
-- JavaScript
+## Technologies Used 🛠️
 
-## Live Demo
+- HTML5 🌐
+- CSS3 🎨
+- JavaScript 📜
+
+## Live Demo 🚀
 
 Check out the live demo [here](https://soumojit622.github.io/PORTFOLIO/).
 
-## Setup
+## Setup 🔧
 
-1. Clone the repository.
-2. Open `index.html` in your browser.
+1. Clone the repository. 📂
+2. Open `index.html` in your browser. 🌐
 
-## Usage
+## Usage 📝
 
-Customize the website by modifying HTML, CSS, and JavaScript files.
+Customize the website by modifying HTML, CSS, and JavaScript files. 🎨
 
-## License
+## License 📜
 
 This project is licensed under the MIT License.
