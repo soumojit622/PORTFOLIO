@@ -17,7 +17,7 @@ This repository contains the code for my portfolio website, showcasing my projec
 
 ## Live Demo
 
-Check out the live demo [here](#insert-live-demo-link).
+Check out the live demo [here](https://soumojit622.github.io/PORTFOLIO/).
 
 ## Setup
 
